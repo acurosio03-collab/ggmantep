@@ -1,0 +1,1 @@
+import{_ as o}from"./vue-count-to@1.0.13.d7d3102f.js";import{C as s,D as t,K as _}from"./@vue_runtime-core@3.5.23.ea9e0f11.js";const c={},n={class:"my-red-dot"};function r(a,e){return s(),t("div",n,[...e[0]||(e[0]=[_("span",null,"!",-1)])])}const i=o(c,[["render",r],["__scopeId","data-v-928c2c98"]]);export{i as M};
